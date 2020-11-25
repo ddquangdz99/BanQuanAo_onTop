@@ -1,5 +1,4 @@
-Phân công công việc:
-Models(Hùng)-->Views(Huy)-->Controllers(Quang).
+
 	Trang website bán quần áo thời trang onTop có : 
     +Trang "Home"(Trang chủ). 
     +Trang "giỏ hàng của bạn".
