@@ -23,4 +23,4 @@
 	PHP,
 	MySQL ,
 	Laravels.
-# Nguồn tham khảo: https://www.youtube.com/playlist?list=PLlylNhIc9-3sIPH6nIhmXqXSV5HnOEYpU.
+	# Nguồn tham khảo: https://www.youtube.com/playlist?list=PLlylNhIc9-3sIPH6nIhmXqXSV5HnOEYpU.
