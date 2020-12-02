@@ -20,7 +20,8 @@
    	+ Khách nhập thông tin để thuận tiện cho việc mua và giao hàng.
    	+ Nhấp "thanh toán" để xác nhận đơn hàng mà khách hàng đã chọn.
 # Website bán quần áo onTop được xây dựng bởi ngôn ngữ :
-	PHP,
-	MySQL ,
+	HTML,CSS.
+	PHP.
+	MySQL.
 	Laravels.
 	# Nguồn tham khảo: https://www.youtube.com/playlist?list=PLlylNhIc9-3sIPH6nIhmXqXSV5HnOEYpU.
