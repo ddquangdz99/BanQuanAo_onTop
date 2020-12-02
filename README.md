@@ -1,8 +1,8 @@
 
-	Trang website bán quần áo thời trang onTop có : 
-    +Trang "Home"(Trang chủ). 
-    +Trang "giỏ hàng của bạn".
-    +Trang "xác nhận thông tin". 
+	Trang website bán quần áo thời trang onTop có : 
+    Trang "Home"(Trang chủ). 
+    Trang "giỏ hàng của bạn".
+    Trang "xác nhận thông tin". 
 •	MÔ TẢ CHI TIẾT: 
    1-Trang "Home" :
    + Trang Home giao diện màu sáng, trên thanh logo trang web có:biểu tượng web, cạnh đó là :thanh trang chủ(Home),thanh Liên hệ và thanh "giỏ hàng của bạn" và có thanh tìm kiếm "Search"thông tin.
